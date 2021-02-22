@@ -1,0 +1,9 @@
+*.tar.gz
+*.tar
+*.zip
+.DS_Store
+node_modules
+*.tgz
+*.tar.lz
+*.lz4
+*.bz4

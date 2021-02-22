@@ -1,0 +1,10 @@
+{
+  "name": "aleth",
+  "version": "1.8.0",
+  "is_prerelease": false,
+  "commit": "255a75ec4fc8ed7fce3449404595d7589d5d907f",
+  "branch": "HEAD",
+  "repo": "git@github.com:ethereum/aleth.git",
+  "system_name": "darwin",
+  "system_processor": "x86_64"
+}
